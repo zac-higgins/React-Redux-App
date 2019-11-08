@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react';
 import axios from "axios";
 
 export const FETCH_DOGS_LOADING = "FETCH_DOGS_LOADING";
